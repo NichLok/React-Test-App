@@ -1,4 +1,4 @@
 # React-Test-App
 
 Testing and learning with React.
-This is likely to be broken most of the time as I play and test stuff.
+App was done following this Tutorial by Mosh: https://www.youtube.com/watch?v=Ke90Tje7VS0
